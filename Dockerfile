@@ -1,4 +1,4 @@
-FROM mariadb:1.1.18
+FROM mariadb:10.1.18
 MAINTAINER ccatlett2000@mctherealm.net
 
 ADD backup.sh /
